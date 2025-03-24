@@ -1,4 +1,4 @@
-# Assignment2
+## Assignment2
 Overview
 Docker is used to package the Django application along with its dependencies into a single, portable container. This ensures that the app runs consistently across development, testing, and production environments.
 
