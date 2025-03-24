@@ -2,7 +2,7 @@
 Overview
 Docker is used to package the Django application along with its dependencies into a single, portable container. This ensures that the app runs consistently across development, testing, and production environments.
 
-# # Key benefits include:
+# Key benefits include:
 
 Isolation: The application runs in its own container, avoiding conflicts with other software.
 Consistency: Containers provide the same runtime environment on any host.
